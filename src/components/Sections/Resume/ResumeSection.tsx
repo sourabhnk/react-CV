@@ -14,5 +14,5 @@ const ResumeSection: FC<PropsWithChildren<{title: string}>> = memo(({title, chil
   );
 });
 
-ResumeSection.displayName = 'ResumeSection';
+ResumeSection.displayName = 'product';
 export default ResumeSection;
